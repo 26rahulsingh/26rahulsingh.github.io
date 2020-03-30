@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+script/branding
+
+set -e
+
+bundle exec jekyll build
+bundle exec htmlproofer ./_site --only-4xx --allow-hash-href

@@ -1,0 +1,91 @@
+# Site Settings
+title: Rahul Singh's CV 
+email: singh.rahul26@hotmail.com
+description: Blockchain Developer
+favicon: /assets/img/avatar.jpg
+baseurl: https://26rahulsingh.github.io/26rahulsingh.github.io
+url: https://26rahulsingh.github.io/26rahulsingh.github.io
+rss_url: /pages/feed.xml
+google_analytics: UA-161944794-1
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Rahul Singh
+  title: Software Developer
+  address: Mumbai, India
+  email: singh.rahul26@hotmail.com
+  link: 
+  weibo:
+  github: 26rahulsingh
+  linkedin: 26rahulsingh
+  twitter: ''
+  gavatar: /assets/img/avatar.jpg
+  stackoverflow: 
+  # stackoverflow: 6033522
+  workHistory:
+    - work1:
+      company: HCL Technologies
+      location: Mumbai, India
+      title: Software Developer
+      started: 2019
+      duration: (2019 - Present)
+      description: Blockchain Developer.
+    - work2:
+      company: JetSynthesys Pvt. Ltd.
+      location: Pune, India
+      title: Software Engineer
+      started: 2018
+      duration: (2018 - 2019)
+      description: Blockchain Developer.
+    - work3:
+      company: Synsoft Global
+      location: Indore, India
+      title: Jr. Software Engineer
+      started: 2017
+      duration: (2017 - 2018)
+      description: I joined Synsoft Global as a Jr. Software Engineer. During my tenure in Synsoft Global, I have worked on multiple projects and technologies. I was responsible for managing, development and deployment of multiple projects to the clients. I also got a chance to work on two Ethereum Blockchain projects. During my tenure, I worked on multiple technologies - NodeJS, Blockchain, JavaScript, Angular, Ethereum, Solidity, MongoDB, Truffle, Geth, Docker etc.
+  educationHistory:
+    - education1:
+      organization: VIT University, Vellore
+      location: Vellore, Tamil Nadu, India
+      degree: Master of Computer Applications (MCA)
+      major: Computer Science
+      started: 2012
+      duration: (2012 - 2015)
+      description: Completed MCA degree.
+    - education2:
+      organization: Bhopal School of Social Sciences
+      location: Bhopal, Madhya Pradesh, India
+      degree: Bachelor of Computer Applications (BCA)
+      major: Computer Science
+      started: 2008
+      duration: (2008 - 2011)
+      description: Completed BCA degree.
+  languages:
+    - language1:
+      name: English
+      proficiency: Professional
+    - language2:
+      name: Hindi
+      proficiency: Native
+  programmingSkills:
+    - skill1:
+      name: NodeJS
+      percentage: 100%
+    - skill2:
+      name: JavaScript
+      percentage: 90%
+    - skill3:
+      name: Python
+      percentage: 70%
+    - skill4:
+      name: Angular
+      percentage: 60%
+    - skill5:
+      name: MongoDB
+      percentage: 60%
